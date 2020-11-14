@@ -1,1 +1,1 @@
-alert("xss");
+document.cookie = "user=UYDGIUH"
